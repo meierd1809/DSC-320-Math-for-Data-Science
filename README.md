@@ -1,9 +1,8 @@
 ## Math for Data Science
 - This repository includes various assignments completed in the Math for Data Science course at Bellevue.
 </br>
-</br>
 - This includes assignments pertaining to:
-   1) Creating mathemetical functions with Python code
+   - 1) Creating mathemetical functions with Python code
    2) Graphing Mathemtical Functions
    3) Limits, Rate of Change, Derivatives
    4) Matrices
