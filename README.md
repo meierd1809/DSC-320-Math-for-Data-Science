@@ -1,6 +1,5 @@
 # Math for Data Science
 - This repository includes various assignments completed in the Math for Data Science course at Bellevue.
-</br>
 
 ## Assignment Topics Include:
 
